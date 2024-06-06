@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const allowedOrigins = [
     "http://localhost:3000",
-    "http://other-domain---.com",
+    "https://ntsua1908.github.io",
 ];
 const corsOptions = {
     origin: (origin, callback) => {
