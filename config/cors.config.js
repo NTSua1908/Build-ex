@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const allowedOrigins = [
     "http://localhost:3000",
-    "https://experiences-e35ed.web.app/",
+    "https://experiences-e35ed.web.app",
 ];
 const corsOptions = {
     origin: (origin, callback) => {
